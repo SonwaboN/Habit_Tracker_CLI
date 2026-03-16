@@ -158,6 +158,7 @@ To run the test suite:
 ``` bash
 pytest
 ```
+![Test Suite](screenshots/passing_pytests.png)
 
 ------------------------------------------------------------------------
 
