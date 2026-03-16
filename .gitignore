@@ -1,0 +1,10 @@
+__pycache__/
+.pytest_cache
+data.json
+venv/
+.venv/
+env/
+bin/
+include/
+lib/
+share/
